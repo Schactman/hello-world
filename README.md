@@ -3,13 +3,15 @@ hello-world
 
 My first repository
 
-My first try at GitHub...using this to take a Coursera class.  Yikes.
+My first try at GitHub...using this to take a Coursera class.
 
-###Trying markdown
-  > Natures first green is gold,
-  *Her hardest hue to hold.*
-  **Her early leaf's a flower,**
-  ######But only so an hour.
+###Markdown
+
+> Nature's first green is gold
+*Her hardest hue to hold.*
+**Her early leaf's a flower,**
+  
+#####But only so an hour.
 
 1. item 1
 2. item 2
